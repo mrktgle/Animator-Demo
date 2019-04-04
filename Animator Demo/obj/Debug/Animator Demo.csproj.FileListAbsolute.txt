@@ -1,0 +1,20 @@
+c:\users\mark tagle\documents\visual studio 2015\Projects\Animator Demo\Animator Demo\bin\Debug\Animator Demo.exe.config
+C:\Users\Mark Tagle\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\bin\Debug\Animator Demo.exe
+C:\Users\Mark Tagle\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\bin\Debug\Animator Demo.pdb
+C:\Users\Mark Tagle\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\obj\Debug\Animator Demo.csprojResolveAssemblyReference.cache
+C:\Users\Mark Tagle\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\obj\Debug\Animator_Demo.Form1.resources
+C:\Users\Mark Tagle\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\obj\Debug\Animator_Demo.Properties.Resources.resources
+C:\Users\Mark Tagle\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\obj\Debug\Animator Demo.csproj.GenerateResource.Cache
+C:\Users\Mark Tagle\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\obj\Debug\Animator Demo.exe
+C:\Users\Mark Tagle\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\obj\Debug\Animator Demo.pdb
+C:\Users\Mark Tagle\documents\visual studio 2015\Projects\Animator Demo\Animator Demo\bin\Debug\Animator.dll
+D:\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\bin\Debug\Animator Demo.exe.config
+D:\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\obj\Debug\Animator Demo.exe
+D:\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\obj\Debug\Animator Demo.pdb
+D:\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\bin\Debug\Animator Demo.exe
+D:\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\bin\Debug\Animator Demo.pdb
+D:\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\bin\Debug\Animator.dll
+D:\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\obj\Debug\Animator Demo.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\obj\Debug\Animator_Demo.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\obj\Debug\Animator_Demo.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Animator Demo\Animator Demo\obj\Debug\Animator Demo.csproj.GenerateResource.Cache
