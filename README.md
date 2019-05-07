@@ -1,4 +1,4 @@
-# Animator Demo made in Visual Studio C#
+# Animator Demo made in Visual Studio C# Winforms
 
 ### Frameworks used: 
    Bunifu_UI_v1.5.3
